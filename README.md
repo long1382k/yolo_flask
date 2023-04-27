@@ -1,0 +1,1 @@
+Yolov8 flask API for video prediction

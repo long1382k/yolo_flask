@@ -1,0 +1,4 @@
+train: /home/fitmta/LongLong/train
+val: /home/fitmta/LongLong/train
+nc: 1
+names: ['fire']
